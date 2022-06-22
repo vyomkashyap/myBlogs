@@ -10,3 +10,5 @@ This line will not be deleted, it will be there.
 second day on GIT!
 
 The new line which I will commit to the new created branch!!
+
+New Line added in the Main branch for getting the conflicts
